@@ -12,16 +12,16 @@ If using repl.it, you will encounter an error akin to "no module named 'PIL'". T
 
 
 ## Drawing a Line
-For homework, you are asked to create a python program to draw a line using the algorithm you developed in class.
+For homework, you are asked to create a python program to draw a line using the algorithm you developed in class. The progression will be as follows:
 1. A program called draw_horizontal_line.py that should have:
-  * a function that creates the image/canvas
-  * a function that can take parameters for drawing the line, i.e.
+   * a function that creates the image/canvas
+   * a function that can take parameters for drawing the line, i.e.
   
   ```python
   def draw_line(start, finish):
     "draw a line starting at start and finishing at finish"
   ```
-  * the draw line function called to draw a horizontal line
+   * the draw line function called to draw a horizontal line
   
 2. A program called draw_horizontal_lines.py which will draw multiple random horizontal lines using your algorithm.
 
