@@ -37,11 +37,12 @@ If you are using an IDE on your computer, you need some way to install new modul
 For homework, you are asked to create a python program to draw a line using the algorithm you developed in class. The progression will be as follows:
 - [ ] A program called draw_horizontal_line.py which will draw a single horizontal line. This will be the basis of the rest of the programs; it should have:
    * a function that creates the image/canvas
-   * a function that can take parameters for drawing the line, i.e.
+   * a function that can take parameters for drawing the line and
+   * uses iteration within the function:
   
         ```python
         def draw_line(start, finish):
-          "draw a line starting at start and finishing at finish"
+          "draw a line starting at start and finishing at finish using iteration"
         ```
    * the draw line function called to draw a horizontal line
   
