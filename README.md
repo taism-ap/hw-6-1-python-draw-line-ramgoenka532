@@ -1,5 +1,5 @@
 # Python Draw Line
-Introduction to basic computer graphics
+An introduction to (very) basic computer graphics
 
 ## Drawing Points
 Open the draw_points.py file in your favourite IDE and make sure it works. Try changing the created pixel, try adding more pixels, go nuts.
@@ -24,14 +24,13 @@ For homework, you are asked to create a python program to draw a line using the 
    * the draw line function called to draw a horizontal line
   
 - [ ] A program called draw_horizontal_lines.py which will draw multiple random horizontal lines using your algorithm. An example of how to use randint in python is shown below.
-        
-        ```python
-        import random as rand
-        # the code below will generate a random integer between 0 and 10
-        x = rand.randint(0,10)
-        print(x)
-        ```
 
+    ```python
+    import random as rand
+    # the code below will generate a random integer between 0 and 10
+    x = rand.randint(0,10)
+    print(x)
+    ```
 - [ ] A program called draw_multiple_lines.py which can draw multiple non-horizontal lines using your algorithm.
 
 - [ ] A program called draw_thick_line.py which can draw a non-horizontal line of a parameterized thickness.
