@@ -17,10 +17,10 @@ For homework, you are asked to create a python program to draw a line using the 
    * a function that creates the image/canvas
    * a function that can take parameters for drawing the line, i.e.
   
-  ```python
-  def draw_line(start, finish):
-    "draw a line starting at start and finishing at finish"
-  ```
+    ```python
+    def draw_line(start, finish):
+      "draw a line starting at start and finishing at finish"
+    ```
    * the draw line function called to draw a horizontal line
   
 2. A program called draw_horizontal_lines.py which will draw multiple random horizontal lines using your algorithm.
