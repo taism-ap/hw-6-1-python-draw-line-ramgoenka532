@@ -1,5 +1,5 @@
-# Python Draw Line
-An introduction to (very) basic computer graphics
+# Drawing a Line in Python
+An introduction to (very) basic computer graphics - how hard can if be to draw a line?
 
 ## Drawing Points
 Create a file called draw_points.py, using the code below as a base.
