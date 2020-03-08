@@ -24,6 +24,7 @@ For homework, you are asked to create a python program to draw a line using the 
    * the draw line function called to draw a horizontal line
   
 - [ ] A program called draw_horizontal_lines.py which will draw multiple random horizontal lines using your algorithm. An example of how to use randint in python is shown below.
+        
         ```python
         import random as rand
         # the code below will generate a random integer between 0 and 10
