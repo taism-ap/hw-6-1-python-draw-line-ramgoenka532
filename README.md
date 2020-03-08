@@ -17,8 +17,8 @@ For homework, you are asked to create a python program to draw a line using the 
   * a function that creates the image/canvas
   * a function that can take parameters for drawing the line, i.e.
   
-  `
-  def draw_line(start, finish)
+  ```python
+  def draw_line(start, finish):
   draw a line starting at start and finishing at finish
-  `
+  ```
 2. a program called draw_multiple_lines.py that should have the same as the previous, but will now draw multiple lines on the same 
