@@ -54,6 +54,6 @@ For homework, you are asked to create a python program to draw a line using the 
     x = rand.randint(0,10)
     print(x)
     ```
-- [ ] A program called draw_multiple_lines.py which can draw multiple non-horizontal lines using your algorithm.
+- [ ] A program called draw_multiple_lines.py which can draw multiple non-horizontal lines using your algorithm - after doing this a few times, you should realize the limitations of your algorithm.
 
 - [ ] A program called draw_thick_line.py which can draw a non-horizontal line of a parameterized thickness.
