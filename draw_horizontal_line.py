@@ -23,8 +23,8 @@ xi = int(input("x cordinate of starting position"))
 yi = int(input("y cordinate of starting position"))
 
 #input the cordinates of the line's end point 
-xf = int(input("x cordinate of starting position"))
-yf = int(input("y cordinate of starting position"))
+xf = int(input("x cordinate of ending position"))
+yf = int(input("y cordinate of ending position"))
 
 if xi != xf
   xi > xf
